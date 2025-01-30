@@ -1,1 +1,1 @@
-# Games
+# Simple Games
